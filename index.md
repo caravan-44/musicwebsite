@@ -1,5 +1,4 @@
-**HIIII**
+#Music Website
 
-this is my website
-
-markdown is kinda stoopid but *cool*
+| ---- GANTT CHART! ----| | STATUS | | RECOURCES | | --- | | --- | | --- | | --- | 
+| Creating the solution | 
